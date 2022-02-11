@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BodyMassIndex/BodyMassIndex.iml" filepath="$PROJECT_DIR$/BodyMassIndex/BodyMassIndex.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CirclePerimeterAndArea/CirclePerimeterAndArea.iml" filepath="$PROJECT_DIR$/CirclePerimeterAndArea/CirclePerimeterAndArea.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HypotenuseInRightTriangle/HypotenuseInRightTriangle.iml" filepath="$PROJECT_DIR$/HypotenuseInRightTriangle/HypotenuseInRightTriangle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaLessons.iml" filepath="$PROJECT_DIR$/JavaLessons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaPatika/JavaPatika.iml" filepath="$PROJECT_DIR$/JavaPatika/JavaPatika.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Kdv/Kdv.iml" filepath="$PROJECT_DIR$/Kdv/Kdv.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MeanPatika/MeanPatika.iml" filepath="$PROJECT_DIR$/MeanPatika/MeanPatika.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PricePerOfKg/PricePerOfKg.iml" filepath="$PROJECT_DIR$/PricePerOfKg/PricePerOfKg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TaxiMeter/TaxiMeter.iml" filepath="$PROJECT_DIR$/TaxiMeter/TaxiMeter.iml" />
+    </modules>
+  </component>
+</project>
